@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyfecrypt",
+        "uuid": 11797778,
+        "checksum": "19zz45"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
